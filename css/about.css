@@ -109,7 +109,8 @@ b{
   color: black;
   position: absolute;
   top: 330px;
-  width: 700px;
+  width: 600px;
+  overflow:hidden;
   font-family: "Montserrat";
   line-height: 115%; 
 
