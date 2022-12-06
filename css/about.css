@@ -103,12 +103,13 @@ b{
 
 .container-about .introduction p{
   margin-left: 700px;
+  margin-right:auto;
   font-size: 22px;
   font-weight: 500px;
   color: black;
   position: absolute;
   top: 330px;
-  width: 900px;
+  width: 700px;
   font-family: "Montserrat";
   line-height: 115%; 
 
